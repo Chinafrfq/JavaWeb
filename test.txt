@@ -1,9 +1,1 @@
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-hello Git!
-ello Git!
+This is hot-fix!
